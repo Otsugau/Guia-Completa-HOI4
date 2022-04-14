@@ -1,0 +1,12 @@
+:root {
+  --rojo-nintendo: #E60012;
+  --blanco: #ffffff;
+  --azul-fondo1: #3498DB;
+  
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 16px; /* 1rem = 10px */
+}
